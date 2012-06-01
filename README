@@ -1,0 +1,8 @@
+JQuery Mobile Popup Textbox
+=============================================================
+
+This example is simple. Fixed header. Fixed footer. One button centered in the footer.
+
+Click the "My Notes" button to display a popup containing a textbox.
+
+![Alt text](/photo.png "Screenshot")
